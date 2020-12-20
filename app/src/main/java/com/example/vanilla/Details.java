@@ -51,6 +51,6 @@ public class Details extends AppCompatActivity {
     }
 
     public void btnAddOnClick(View view) {
-        Toast.makeText(this, "والله كلنا على بالنا منه بس للأسف هذا داممي بوتون", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Added", Toast.LENGTH_SHORT).show();
     }
 }

@@ -29,6 +29,6 @@ public class Team extends AppCompatActivity {
         recyclerView.setAdapter(itemAdapter);
     }
     public void btnDetailsOnClick(View view) {
-        Toast.makeText(this, "أريدي مضغوط يا باشا :(", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, " Have a good day", Toast.LENGTH_SHORT).show();
     }
 }
